@@ -64,7 +64,7 @@ const config: Config = {
           position: "left",
           label: "About Me",
         },
-        { to: "/blog", label: "Intern Blog", position: "left" },
+        { to: "/assignment", label: "Intern Assignment", position: "left" },
         {
           href: "https://github.com/Tnanawat666",
           label: "GitHub",
@@ -101,8 +101,8 @@ const config: Config = {
           title: "More",
           items: [
             {
-              label: "Intern Blog",
-              to: "/blog",
+              label: "Intern Assignment",
+              to: "/assignment",
             },
             {
               label: "GitHub",
