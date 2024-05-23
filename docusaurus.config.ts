@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "Boom's site",
+  tagline: "Dinosaurs are cool to use for docs and",
   favicon: "img/my-logo.svg",
 
   // Set the production url of your site here
