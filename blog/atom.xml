@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/boom-first-docusaurus/blog</id>
+    <title>Boom's site Blog</title>
+    <updated>2024-05-24T02:51:11.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/boom-first-docusaurus/blog"/>
+    <subtitle>Boom's site Blog</subtitle>
+    <icon>https://github.com/boom-first-docusaurus/img/my-logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://github.com/boom-first-docusaurus/blog/welcome</id>
+        <link href="https://github.com/boom-first-docusaurus/blog/welcome"/>
+        <updated>2024-05-24T02:51:11.000Z</updated>
+        <summary type="html"><![CDATA[This all about the blog of assignment when I'm an internship@@]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-all-about-the-blog-of-assignment-when-im-an-internship">This all about the blog of assignment when I'm an internship@@<a href="https://github.com/boom-first-docusaurus/blog/welcome#this-all-about-the-blog-of-assignment-when-im-an-internship" class="hash-link" aria-label="Direct link to This all about the blog of assignment when I'm an internship@@" title="Direct link to This all about the blog of assignment when I'm an internship@@">​</a></h2>]]></content>
+        <author>
+            <name>Thanawat Phimarnkum</name>
+            <uri>https://github.com/Tnanawat666</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extension for TSX game]]></title>
+        <id>https://github.com/boom-first-docusaurus/blog/extension</id>
+        <link href="https://github.com/boom-first-docusaurus/blog/extension"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I re-create an extension idea of P'Benz. The concept is to making the item market is show detail in the market place itself.]]></summary>
+        <content type="html"><![CDATA[<p>I re-create an extension idea of P'Benz. The concept is to making the <a href="https://astronize.com/th/market" target="_blank" rel="noopener noreferrer"><strong>item market</strong></a> is show detail in the market place itself.</p>
+<p>So I try to making and developing the code until it's work.</p>
+<p>if you want to try the extension here <a href="https://github.com/Tnanawat666/chrome_extensions.git" target="_blank" rel="noopener noreferrer">My github</a></p>
+<ol>
+<li>clone or down a zip file.</li>
+<li>extract.</li>
+<li>go to browser setting &gt; extension.</li>
+<li>turn on developer mode.</li>
+<li>import the folder to the browser.</li>
+<li>use it on <a href="https://astronize.com/th/market" target="_blank" rel="noopener noreferrer"><strong>game market</strong></a></li>
+</ol>]]></content>
+        <author>
+            <name>Thanawat Phimarnkum</name>
+            <uri>https://github.com/Tnanawat666</uri>
+        </author>
+        <category label="assignment" term="assignment"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intern shopping]]></title>
+        <id>https://github.com/boom-first-docusaurus/blog/intern-shopping-assignment</id>
+        <link href="https://github.com/boom-first-docusaurus/blog/intern-shopping-assignment"/>
+        <updated>2024-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a dou project of backend developer intern.]]></summary>
+        <content type="html"><![CDATA[<p>This is a dou project of backend developer intern.</p>
+<p>The concept of the project is a shopping that have user level (super admin, admin, customer, non customer), product and order.</p>
+<p>So we create a backend api for</p>
+<ul>
+<li>user CRUD</li>
+<li>product CRUD</li>
+<li>order CRUD</li>
+</ul>
+<p>if you want to try out here: <a href="https://github.com/pativatkongsawat/Intern_shopping" target="_blank" rel="noopener noreferrer"><strong>intern shopping</strong></a></p>]]></content>
+        <author>
+            <name>Thanawat Phimarnkum</name>
+            <uri>https://github.com/Tnanawat666</uri>
+        </author>
+        <category label="assignment" term="assignment"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docusaurus Assignment]]></title>
+        <id>https://github.com/boom-first-docusaurus/blog/docusaurus-assignment</id>
+        <link href="https://github.com/boom-first-docusaurus/blog/docusaurus-assignment"/>
+        <updated>2024-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This website that you use to read this blog is the assignment!!!]]></summary>
+        <content type="html"><![CDATA[<p>This website that you use to read this blog is the assignment!!!</p>]]></content>
+        <author>
+            <name>Thanawat Phimarnkum</name>
+            <uri>https://github.com/Tnanawat666</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="assignment" term="assignment"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Down Assignment]]></title>
+        <id>https://github.com/boom-first-docusaurus/blog/mark-down-assignment</id>
+        <link href="https://github.com/boom-first-docusaurus/blog/mark-down-assignment"/>
+        <updated>2024-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I making a mark down for git lesson from P'cake]]></summary>
+        <content type="html"><![CDATA[<p>I making a mark down for git lesson from P'cake</p>
+<p>so I writing it on and upload to my git here <a href="https://github.com/Tnanawat666/git-test.git" target="_blank" rel="noopener noreferrer"><strong>mark down assignment</strong></a></p>]]></content>
+        <author>
+            <name>Thanawat Phimarnkum</name>
+            <uri>https://github.com/Tnanawat666</uri>
+        </author>
+        <category label="assignment" term="assignment"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golang Gorm Echo and Swagger]]></title>
+        <id>https://github.com/boom-first-docusaurus/blog/go-first-assignment</id>
+        <link href="https://github.com/boom-first-docusaurus/blog/go-first-assignment"/>
+        <updated>2024-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first go assignment that use Go]]></summary>
+        <content type="html"><![CDATA[<p>This is the first go assignment that use Go <img src="https://github.com/img/golang.png" alt="Golang" width="50">
+Gorm <img src="https://github.com/img/gorm.png" alt="Golang" width="50">
+Echo <img src="https://github.com/img/go-echo.png" alt="Golang" width="50">
+and Swagger <img src="https://github.com/img/swagger.png" alt="Golang" width="50"> together.</p>
+<p>If you want to try out. here <a href="https://github.com/Tnanawat666/go-assignment1.git" target="_blank" rel="noopener noreferrer"><strong>assignment1</strong></a></p>]]></content>
+        <author>
+            <name>Thanawat Phimarnkum</name>
+            <uri>https://github.com/Tnanawat666</uri>
+        </author>
+        <category label="assignment" term="assignment"/>
+    </entry>
+</feed>

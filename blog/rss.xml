@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Boom's site Blog</title>
+        <link>https://github.com/boom-first-docusaurus/blog</link>
+        <description>Boom's site Blog</description>
+        <lastBuildDate>Fri, 24 May 2024 02:51:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://github.com/boom-first-docusaurus/blog/welcome</link>
+            <guid>https://github.com/boom-first-docusaurus/blog/welcome</guid>
+            <pubDate>Fri, 24 May 2024 02:51:11 GMT</pubDate>
+            <description><![CDATA[This all about the blog of assignment when I'm an internship@@]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-all-about-the-blog-of-assignment-when-im-an-internship">This all about the blog of assignment when I'm an internship@@<a href="https://github.com/boom-first-docusaurus/blog/welcome#this-all-about-the-blog-of-assignment-when-im-an-internship" class="hash-link" aria-label="Direct link to This all about the blog of assignment when I'm an internship@@" title="Direct link to This all about the blog of assignment when I'm an internship@@">​</a></h2>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+        <item>
+            <title><![CDATA[Extension for TSX game]]></title>
+            <link>https://github.com/boom-first-docusaurus/blog/extension</link>
+            <guid>https://github.com/boom-first-docusaurus/blog/extension</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I re-create an extension idea of P'Benz. The concept is to making the item market is show detail in the market place itself.]]></description>
+            <content:encoded><![CDATA[<p>I re-create an extension idea of P'Benz. The concept is to making the <a href="https://astronize.com/th/market" target="_blank" rel="noopener noreferrer"><strong>item market</strong></a> is show detail in the market place itself.</p>
+<p>So I try to making and developing the code until it's work.</p>
+<p>if you want to try the extension here <a href="https://github.com/Tnanawat666/chrome_extensions.git" target="_blank" rel="noopener noreferrer">My github</a></p>
+<ol>
+<li>clone or down a zip file.</li>
+<li>extract.</li>
+<li>go to browser setting &gt; extension.</li>
+<li>turn on developer mode.</li>
+<li>import the folder to the browser.</li>
+<li>use it on <a href="https://astronize.com/th/market" target="_blank" rel="noopener noreferrer"><strong>game market</strong></a></li>
+</ol>]]></content:encoded>
+            <category>assignment</category>
+        </item>
+        <item>
+            <title><![CDATA[Intern shopping]]></title>
+            <link>https://github.com/boom-first-docusaurus/blog/intern-shopping-assignment</link>
+            <guid>https://github.com/boom-first-docusaurus/blog/intern-shopping-assignment</guid>
+            <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a dou project of backend developer intern.]]></description>
+            <content:encoded><![CDATA[<p>This is a dou project of backend developer intern.</p>
+<p>The concept of the project is a shopping that have user level (super admin, admin, customer, non customer), product and order.</p>
+<p>So we create a backend api for</p>
+<ul>
+<li>user CRUD</li>
+<li>product CRUD</li>
+<li>order CRUD</li>
+</ul>
+<p>if you want to try out here: <a href="https://github.com/pativatkongsawat/Intern_shopping" target="_blank" rel="noopener noreferrer"><strong>intern shopping</strong></a></p>]]></content:encoded>
+            <category>assignment</category>
+        </item>
+        <item>
+            <title><![CDATA[Docusaurus Assignment]]></title>
+            <link>https://github.com/boom-first-docusaurus/blog/docusaurus-assignment</link>
+            <guid>https://github.com/boom-first-docusaurus/blog/docusaurus-assignment</guid>
+            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This website that you use to read this blog is the assignment!!!]]></description>
+            <content:encoded><![CDATA[<p>This website that you use to read this blog is the assignment!!!</p>]]></content:encoded>
+            <category>docusaurus</category>
+            <category>assignment</category>
+        </item>
+        <item>
+            <title><![CDATA[Mark Down Assignment]]></title>
+            <link>https://github.com/boom-first-docusaurus/blog/mark-down-assignment</link>
+            <guid>https://github.com/boom-first-docusaurus/blog/mark-down-assignment</guid>
+            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I making a mark down for git lesson from P'cake]]></description>
+            <content:encoded><![CDATA[<p>I making a mark down for git lesson from P'cake</p>
+<p>so I writing it on and upload to my git here <a href="https://github.com/Tnanawat666/git-test.git" target="_blank" rel="noopener noreferrer"><strong>mark down assignment</strong></a></p>]]></content:encoded>
+            <category>assignment</category>
+        </item>
+        <item>
+            <title><![CDATA[Golang Gorm Echo and Swagger]]></title>
+            <link>https://github.com/boom-first-docusaurus/blog/go-first-assignment</link>
+            <guid>https://github.com/boom-first-docusaurus/blog/go-first-assignment</guid>
+            <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the first go assignment that use Go]]></description>
+            <content:encoded><![CDATA[<p>This is the first go assignment that use Go <img src="https://github.com/img/golang.png" alt="Golang" width="50">
+Gorm <img src="https://github.com/img/gorm.png" alt="Golang" width="50">
+Echo <img src="https://github.com/img/go-echo.png" alt="Golang" width="50">
+and Swagger <img src="https://github.com/img/swagger.png" alt="Golang" width="50"> together.</p>
+<p>If you want to try out. here <a href="https://github.com/Tnanawat666/go-assignment1.git" target="_blank" rel="noopener noreferrer"><strong>assignment1</strong></a></p>]]></content:encoded>
+            <category>assignment</category>
+        </item>
+    </channel>
+</rss>

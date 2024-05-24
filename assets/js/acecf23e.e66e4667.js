@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_own_docs=self.webpackChunkmy_own_docs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/boom-first-docusaurus/blog","blogTitle":"Blog"}')}}]);
